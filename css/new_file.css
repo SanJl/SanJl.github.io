@@ -19,6 +19,9 @@ header{
 	display: flex;
 	z-index: 9999;
 	background: white;
+	position:'fixed';
+	top:0;
+	left:0;
 }
 .head img{
 	width: 1.1rem;
