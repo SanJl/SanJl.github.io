@@ -60,7 +60,7 @@ $(document).ready(function(){
 		if(h>50){
 			$('.head').css({position:'fixed',top:0,left:0});
 		}else{
-			$('.head').css('position','static');
+			$('.head').css('position','fixed');
 		}
 		var imgs = document.getElementsByTagName('img');		
 		for(var i=0;i<imgs.length;i++){				
