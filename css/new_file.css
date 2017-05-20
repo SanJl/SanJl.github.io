@@ -9,6 +9,9 @@
 body{
 	background: #f8f8f8;
 }
+img{
+	border: 0;
+}
 header{
 	height: 3rem;
 }
